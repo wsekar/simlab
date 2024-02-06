@@ -1,0 +1,1718 @@
+INFO - 2023-07-03 00:01:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 00:01:51 --> foreach() argument must be of type array|object, null given
+in APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php on line 194.
+ 1 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(194): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 00:02:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 00:02:04 --> Too few arguments to function App\Controllers\Simlab\TransaksiPeminjamanController::verif_pengembalian_alat(), 1 passed in /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php on line 934 and exactly 2 expected
+in APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php on line 181.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 00:02:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 00:02:19 --> Undefined array key "77cf2043-f4fc-4c76-9f9a-9beaf3be01a1"
+in APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php on line 220.
+ 1 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(220): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 00:05:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 00:06:02 --> Undefined array key "77cf2043-f4fc-4c76-9f9a-9beaf3be01a1"
+in APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php on line 220.
+ 1 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(220): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 00:06:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 00:06:58 --> Undefined variable $detailpinjamalat
+in APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php on line 215.
+ 1 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(215): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 00:07:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 00:07:27 --> Undefined array key "77cf2043-f4fc-4c76-9f9a-9beaf3be01a1"
+in APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php on line 220.
+ 1 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(220): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 00:12:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 00:12:53 --> Class "gbrn" not found
+in APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php on line 220.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 00:13:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 00:13:35 --> Class "gbrn" not found
+in APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php on line 220.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 00:15:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 00:15:23 --> Undefined array key "77cf2043-f4fc-4c76-9f9a-9beaf3be01a1"
+in APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php on line 220.
+ 1 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(220): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 00:16:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 00:16:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 00:18:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 00:18:06 --> Undefined property: stdClass::$id_alat
+in APPPATH/Views/simlab/transaksi_peminjaman/data_peminjaman_alat.php on line 108.
+ 1 APPPATH/Views/simlab/transaksi_peminjaman/data_peminjaman_alat.php(108): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/simlab/transaksi_peminjaman/data_peminjaman_alat.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1177): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(74): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->dataPeminjamanAlat()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 00:19:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 00:19:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 00:19:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 00:19:26 --> Undefined array key "77cf2043-f4fc-4c76-9f9a-9beaf3be01a1"
+in APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php on line 220.
+ 1 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(220): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 00:23:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 00:23:18 --> Undefined array key "77cf2043-f4fc-4c76-9f9a-9beaf3be01a1"
+in APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php on line 220.
+ 1 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(220): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 00:23:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-07-03 00:23:20 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*
+FROM `simlab_peminjaman_alat`
+LEFT JOIN `mahasiswa` ON `mahasiswa`.`id_mhs` = ' at line 1 in /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+#4 /home/d3ti.myfin.id/ci4_core/app/Models/Simlab/PeminjamanAlatModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/d3ti.myfin.id/ci4_core/app/Controllers/Simlab/TransaksiPeminjamanController.php(71): App\Models\Simlab\PeminjamanAlatModel->getAlatDipinjam()
+#6 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->dataPeminjamanAlat()
+#7 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/d3ti.myfin.id/public_html/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-03 00:23:20 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*
+FROM `simlab_peminjaman_alat`
+LEFT JOIN `mahasiswa` ON `mahasiswa`.`id_mhs` = ' at line 1
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Simlab/PeminjamanAlatModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(71): App\Models\Simlab\PeminjamanAlatModel->getAlatDipinjam()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->dataPeminjamanAlat()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 00:23:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-07-03 00:23:22 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*
+FROM `simlab_peminjaman_alat`
+LEFT JOIN `mahasiswa` ON `mahasiswa`.`id_mhs` = ' at line 1 in /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+#4 /home/d3ti.myfin.id/ci4_core/app/Models/Simlab/PeminjamanAlatModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/d3ti.myfin.id/ci4_core/app/Controllers/Simlab/TransaksiPeminjamanController.php(71): App\Models\Simlab\PeminjamanAlatModel->getAlatDipinjam()
+#6 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->dataPeminjamanAlat()
+#7 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/d3ti.myfin.id/public_html/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-03 00:23:22 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*
+FROM `simlab_peminjaman_alat`
+LEFT JOIN `mahasiswa` ON `mahasiswa`.`id_mhs` = ' at line 1
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Simlab/PeminjamanAlatModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(71): App\Models\Simlab\PeminjamanAlatModel->getAlatDipinjam()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->dataPeminjamanAlat()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 00:24:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-07-03 00:24:00 --> mysqli_sql_exception: Table 'd3ti_psdku.simlab_detail_pinjam_alat' doesn't exist in /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+#4 /home/d3ti.myfin.id/ci4_core/app/Models/Simlab/PeminjamanAlatModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/d3ti.myfin.id/ci4_core/app/Controllers/Simlab/TransaksiPeminjamanController.php(71): App\Models\Simlab\PeminjamanAlatModel->getAlatDipinjam()
+#6 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->dataPeminjamanAlat()
+#7 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/d3ti.myfin.id/public_html/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-03 00:24:00 --> Table 'd3ti_psdku.simlab_detail_pinjam_alat' doesn't exist
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Simlab/PeminjamanAlatModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(71): App\Models\Simlab\PeminjamanAlatModel->getAlatDipinjam()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->dataPeminjamanAlat()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 00:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-07-03 00:24:26 --> mysqli_sql_exception: Unknown column 'simlab_pinjam_alat.id_pinjam_alat' in 'on clause' in /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+#4 /home/d3ti.myfin.id/ci4_core/app/Models/Simlab/PeminjamanAlatModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/d3ti.myfin.id/ci4_core/app/Controllers/Simlab/TransaksiPeminjamanController.php(71): App\Models\Simlab\PeminjamanAlatModel->getAlatDipinjam()
+#6 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->dataPeminjamanAlat()
+#7 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/d3ti.myfin.id/public_html/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-03 00:24:26 --> Unknown column 'simlab_pinjam_alat.id_pinjam_alat' in 'on clause'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Simlab/PeminjamanAlatModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(71): App\Models\Simlab\PeminjamanAlatModel->getAlatDipinjam()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->dataPeminjamanAlat()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 00:24:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-07-03 00:24:30 --> mysqli_sql_exception: Unknown column 'simlab_pinjam_alat.id_pinjam_alat' in 'on clause' in /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+#4 /home/d3ti.myfin.id/ci4_core/app/Models/Simlab/PeminjamanAlatModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/d3ti.myfin.id/ci4_core/app/Controllers/Simlab/TransaksiPeminjamanController.php(71): App\Models\Simlab\PeminjamanAlatModel->getAlatDipinjam()
+#6 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->dataPeminjamanAlat()
+#7 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/d3ti.myfin.id/public_html/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-03 00:24:30 --> Unknown column 'simlab_pinjam_alat.id_pinjam_alat' in 'on clause'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Simlab/PeminjamanAlatModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(71): App\Models\Simlab\PeminjamanAlatModel->getAlatDipinjam()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->dataPeminjamanAlat()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 00:24:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 00:24:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 00:24:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 00:25:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 00:25:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 00:25:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 00:25:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 00:25:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 00:25:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 00:25:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 00:25:23 --> Undefined array key "77cf2043-f4fc-4c76-9f9a-9beaf3be01a1"
+in APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php on line 220.
+ 1 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(220): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 00:25:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 00:25:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 00:25:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 00:25:49 --> Undefined array key "77cf2043-f4fc-4c76-9f9a-9beaf3be01a1"
+in APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php on line 220.
+ 1 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(220): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 00:59:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 02:10:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 02:10:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 02:10:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 02:10:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 02:10:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 02:10:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 09:08:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 09:44:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 09:44:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 12:47:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 12:47:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 12:47:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 12:47:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 12:47:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 12:47:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-07-03 12:47:31 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*
+FROM `simlab_peminjaman_alat`
+LEFT JOIN `mahasiswa` ON `mahasiswa`.`id_mhs` = ' at line 1 in /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+#4 /home/d3ti.myfin.id/ci4_core/app/Models/Simlab/PeminjamanAlatModel.php(25): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/d3ti.myfin.id/ci4_core/app/Controllers/Simlab/TransaksiPeminjamanController.php(71): App\Models\Simlab\PeminjamanAlatModel->getAlatDipinjam()
+#6 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->dataPeminjamanAlat()
+#7 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/d3ti.myfin.id/public_html/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-03 12:47:31 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*
+FROM `simlab_peminjaman_alat`
+LEFT JOIN `mahasiswa` ON `mahasiswa`.`id_mhs` = ' at line 1
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Simlab/PeminjamanAlatModel.php(25): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(71): App\Models\Simlab\PeminjamanAlatModel->getAlatDipinjam()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->dataPeminjamanAlat()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 12:47:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 12:48:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-07-03 12:48:25 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*
+FROM `simlab_peminjaman_alat`
+LEFT JOIN `mahasiswa` ON `mahasiswa`.`id_mhs` = ' at line 1 in /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+#4 /home/d3ti.myfin.id/ci4_core/app/Models/Simlab/PeminjamanAlatModel.php(25): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/d3ti.myfin.id/ci4_core/app/Controllers/Simlab/TransaksiPeminjamanController.php(71): App\Models\Simlab\PeminjamanAlatModel->getAlatDipinjam()
+#6 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->dataPeminjamanAlat()
+#7 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/d3ti.myfin.id/public_html/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-03 12:48:25 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*
+FROM `simlab_peminjaman_alat`
+LEFT JOIN `mahasiswa` ON `mahasiswa`.`id_mhs` = ' at line 1
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Simlab/PeminjamanAlatModel.php(25): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(71): App\Models\Simlab\PeminjamanAlatModel->getAlatDipinjam()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->dataPeminjamanAlat()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 12:48:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 12:48:39 --> Undefined property: stdClass::$id_alat
+in APPPATH/Views/simlab/transaksi_peminjaman/data_peminjaman_alat.php on line 108.
+ 1 APPPATH/Views/simlab/transaksi_peminjaman/data_peminjaman_alat.php(108): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/simlab/transaksi_peminjaman/data_peminjaman_alat.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1177): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(74): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->dataPeminjamanAlat()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 12:48:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 12:49:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 12:49:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-07-03 12:49:32 --> Error connecting to the database: mysqli_sql_exception: Connection timed out in /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:174
+Stack trace:
+#0 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(174): mysqli->real_connect()
+#1 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+#4 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Model.php(199): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/BaseModel.php(557): CodeIgniter\Model->doFind()
+#6 /home/d3ti.myfin.id/ci4_core/app/ThirdParty/MythAuth/src/Authentication/AuthenticationBase.php(130): CodeIgniter\BaseModel->find()
+#7 /home/d3ti.myfin.id/ci4_core/app/ThirdParty/MythAuth/src/Authentication/LocalAuthenticator.php(68): Myth\Auth\Authentication\AuthenticationBase->isLoggedIn()
+#8 /home/d3ti.myfin.id/ci4_core/app/ThirdParty/MythAuth/src/Filters/LoginFilter.php(29): Myth\Auth\Authentication\LocalAuthenticator->check()
+#9 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Filters/Filters.php(173): Myth\Auth\Filters\LoginFilter->before()
+#10 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(473): CodeIgniter\Filters\Filters->run()
+#11 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#12 /home/d3ti.myfin.id/public_html/index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Connection timed out in /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:218
+Stack trace:
+#0 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+#3 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Model.php(199): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/BaseModel.php(557): CodeIgniter\Model->doFind()
+#5 /home/d3ti.myfin.id/ci4_core/app/ThirdParty/MythAuth/src/Authentication/AuthenticationBase.php(130): CodeIgniter\BaseModel->find()
+#6 /home/d3ti.myfin.id/ci4_core/app/ThirdParty/MythAuth/src/Authentication/LocalAuthenticator.php(68): Myth\Auth\Authentication\AuthenticationBase->isLoggedIn()
+#7 /home/d3ti.myfin.id/ci4_core/app/ThirdParty/MythAuth/src/Filters/LoginFilter.php(29): Myth\Auth\Authentication\LocalAuthenticator->check()
+#8 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Filters/Filters.php(173): Myth\Auth\Filters\LoginFilter->before()
+#9 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(473): CodeIgniter\Filters\Filters->run()
+#10 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#11 /home/d3ti.myfin.id/public_html/index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-07-03 12:49:32 --> Unable to connect to the database.
+Main connection [MySQLi]: Connection timed out
+in SYSTEMPATH/Database/BaseConnection.php on line 427.
+ 1 SYSTEMPATH/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/Model.php(199): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(557): CodeIgniter\Model->doFind()
+ 5 APPPATH/ThirdParty/MythAuth/src/Authentication/AuthenticationBase.php(130): CodeIgniter\BaseModel->find()
+ 6 APPPATH/ThirdParty/MythAuth/src/Authentication/LocalAuthenticator.php(68): Myth\Auth\Authentication\AuthenticationBase->isLoggedIn()
+ 7 APPPATH/ThirdParty/MythAuth/src/Filters/LoginFilter.php(29): Myth\Auth\Authentication\LocalAuthenticator->check()
+ 8 SYSTEMPATH/Filters/Filters.php(173): Myth\Auth\Filters\LoginFilter->before()
+ 9 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\Filters\Filters->run()
+10 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 12:49:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-07-03 12:49:42 --> Error connecting to the database: mysqli_sql_exception: Connection timed out in /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:174
+Stack trace:
+#0 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(174): mysqli->real_connect()
+#1 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+#4 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Model.php(199): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/BaseModel.php(557): CodeIgniter\Model->doFind()
+#6 /home/d3ti.myfin.id/ci4_core/app/ThirdParty/MythAuth/src/Authentication/AuthenticationBase.php(130): CodeIgniter\BaseModel->find()
+#7 /home/d3ti.myfin.id/ci4_core/app/ThirdParty/MythAuth/src/Authentication/LocalAuthenticator.php(68): Myth\Auth\Authentication\AuthenticationBase->isLoggedIn()
+#8 /home/d3ti.myfin.id/ci4_core/app/ThirdParty/MythAuth/src/Filters/LoginFilter.php(29): Myth\Auth\Authentication\LocalAuthenticator->check()
+#9 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Filters/Filters.php(173): Myth\Auth\Filters\LoginFilter->before()
+#10 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(473): CodeIgniter\Filters\Filters->run()
+#11 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#12 /home/d3ti.myfin.id/public_html/index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Connection timed out in /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:218
+Stack trace:
+#0 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+#3 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Model.php(199): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/BaseModel.php(557): CodeIgniter\Model->doFind()
+#5 /home/d3ti.myfin.id/ci4_core/app/ThirdParty/MythAuth/src/Authentication/AuthenticationBase.php(130): CodeIgniter\BaseModel->find()
+#6 /home/d3ti.myfin.id/ci4_core/app/ThirdParty/MythAuth/src/Authentication/LocalAuthenticator.php(68): Myth\Auth\Authentication\AuthenticationBase->isLoggedIn()
+#7 /home/d3ti.myfin.id/ci4_core/app/ThirdParty/MythAuth/src/Filters/LoginFilter.php(29): Myth\Auth\Authentication\LocalAuthenticator->check()
+#8 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Filters/Filters.php(173): Myth\Auth\Filters\LoginFilter->before()
+#9 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(473): CodeIgniter\Filters\Filters->run()
+#10 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#11 /home/d3ti.myfin.id/public_html/index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-07-03 12:49:42 --> Unable to connect to the database.
+Main connection [MySQLi]: Connection timed out
+in SYSTEMPATH/Database/BaseConnection.php on line 427.
+ 1 SYSTEMPATH/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/Model.php(199): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(557): CodeIgniter\Model->doFind()
+ 5 APPPATH/ThirdParty/MythAuth/src/Authentication/AuthenticationBase.php(130): CodeIgniter\BaseModel->find()
+ 6 APPPATH/ThirdParty/MythAuth/src/Authentication/LocalAuthenticator.php(68): Myth\Auth\Authentication\AuthenticationBase->isLoggedIn()
+ 7 APPPATH/ThirdParty/MythAuth/src/Filters/LoginFilter.php(29): Myth\Auth\Authentication\LocalAuthenticator->check()
+ 8 SYSTEMPATH/Filters/Filters.php(173): Myth\Auth\Filters\LoginFilter->before()
+ 9 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\Filters\Filters->run()
+10 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 12:50:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-07-03 12:50:10 --> Error connecting to the database: mysqli_sql_exception: Connection timed out in /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:174
+Stack trace:
+#0 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(174): mysqli->real_connect()
+#1 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+#4 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Model.php(199): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/BaseModel.php(557): CodeIgniter\Model->doFind()
+#6 /home/d3ti.myfin.id/ci4_core/app/ThirdParty/MythAuth/src/Authentication/AuthenticationBase.php(130): CodeIgniter\BaseModel->find()
+#7 /home/d3ti.myfin.id/ci4_core/app/ThirdParty/MythAuth/src/Authentication/LocalAuthenticator.php(68): Myth\Auth\Authentication\AuthenticationBase->isLoggedIn()
+#8 /home/d3ti.myfin.id/ci4_core/app/ThirdParty/MythAuth/src/Filters/LoginFilter.php(29): Myth\Auth\Authentication\LocalAuthenticator->check()
+#9 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Filters/Filters.php(173): Myth\Auth\Filters\LoginFilter->before()
+#10 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(473): CodeIgniter\Filters\Filters->run()
+#11 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#12 /home/d3ti.myfin.id/public_html/index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Connection timed out in /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:218
+Stack trace:
+#0 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+#3 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Model.php(199): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/BaseModel.php(557): CodeIgniter\Model->doFind()
+#5 /home/d3ti.myfin.id/ci4_core/app/ThirdParty/MythAuth/src/Authentication/AuthenticationBase.php(130): CodeIgniter\BaseModel->find()
+#6 /home/d3ti.myfin.id/ci4_core/app/ThirdParty/MythAuth/src/Authentication/LocalAuthenticator.php(68): Myth\Auth\Authentication\AuthenticationBase->isLoggedIn()
+#7 /home/d3ti.myfin.id/ci4_core/app/ThirdParty/MythAuth/src/Filters/LoginFilter.php(29): Myth\Auth\Authentication\LocalAuthenticator->check()
+#8 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Filters/Filters.php(173): Myth\Auth\Filters\LoginFilter->before()
+#9 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(473): CodeIgniter\Filters\Filters->run()
+#10 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#11 /home/d3ti.myfin.id/public_html/index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-07-03 12:50:10 --> Unable to connect to the database.
+Main connection [MySQLi]: Connection timed out
+in SYSTEMPATH/Database/BaseConnection.php on line 427.
+ 1 SYSTEMPATH/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/Model.php(199): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(557): CodeIgniter\Model->doFind()
+ 5 APPPATH/ThirdParty/MythAuth/src/Authentication/AuthenticationBase.php(130): CodeIgniter\BaseModel->find()
+ 6 APPPATH/ThirdParty/MythAuth/src/Authentication/LocalAuthenticator.php(68): Myth\Auth\Authentication\AuthenticationBase->isLoggedIn()
+ 7 APPPATH/ThirdParty/MythAuth/src/Filters/LoginFilter.php(29): Myth\Auth\Authentication\LocalAuthenticator->check()
+ 8 SYSTEMPATH/Filters/Filters.php(173): Myth\Auth\Filters\LoginFilter->before()
+ 9 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\Filters\Filters->run()
+10 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 12:51:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-07-03 12:52:30 --> Error connecting to the database: mysqli_sql_exception: Connection timed out in /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:174
+Stack trace:
+#0 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(174): mysqli->real_connect()
+#1 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+#4 /home/d3ti.myfin.id/ci4_core/app/Models/Tracer/CmsModel.php(25): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/d3ti.myfin.id/ci4_core/app/Controllers/LandingController.php(32): App\Models\Tracer\CmsModel->getWarna()
+#6 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(934): App\Controllers\LandingController->index()
+#7 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/d3ti.myfin.id/public_html/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Connection timed out in /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:218
+Stack trace:
+#0 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+#3 /home/d3ti.myfin.id/ci4_core/app/Models/Tracer/CmsModel.php(25): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/d3ti.myfin.id/ci4_core/app/Controllers/LandingController.php(32): App\Models\Tracer\CmsModel->getWarna()
+#5 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(934): App\Controllers\LandingController->index()
+#6 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#7 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/d3ti.myfin.id/public_html/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-07-03 12:52:30 --> Unable to connect to the database.
+Main connection [MySQLi]: Connection timed out
+in SYSTEMPATH/Database/BaseConnection.php on line 427.
+ 1 SYSTEMPATH/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+ 3 APPPATH/Models/Tracer/CmsModel.php(25): CodeIgniter\Database\BaseBuilder->get()
+ 4 APPPATH/Controllers/LandingController.php(32): App\Models\Tracer\CmsModel->getWarna()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\LandingController->index()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 13:27:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 13:27:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 13:27:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 13:27:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 13:27:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 13:27:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 13:27:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 13:27:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 13:34:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 13:34:59 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php on line 198.
+ 1 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(198): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 13:36:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 13:36:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 13:36:58 --> Cannot use object of type stdClass as array
+in APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php on line 198.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 13:37:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 13:37:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 13:37:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 13:37:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 13:37:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 13:37:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 13:37:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 13:37:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 13:37:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 13:37:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 13:38:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 13:38:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 13:38:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 13:38:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 13:38:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 13:38:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 13:38:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 13:39:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 13:39:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 13:39:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 13:49:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 13:52:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 13:52:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 13:52:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 13:53:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 13:53:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 14:39:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 14:39:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 14:39:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 14:39:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 14:39:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 14:39:34 --> count(): Argument #1 ($value) must be of type Countable|array, null given
+in APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php on line 194.
+ 1 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(194): count()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 14:39:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 14:39:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:05:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:06:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:07:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:07:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:07:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:07:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:07:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:07:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:07:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:07:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:07:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:08:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:08:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 21:08:05 --> Undefined variable $pjr
+in APPPATH/Views/simlab/transaksi_peminjaman/data_pengajuan_alat.php on line 214.
+ 1 APPPATH/Views/simlab/transaksi_peminjaman/data_pengajuan_alat.php(214): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/simlab/transaksi_peminjaman/data_pengajuan_alat.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1177): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(54): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->dataPengajuanAlat()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 21:08:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:08:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:08:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:08:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:08:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:10:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:10:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 21:10:04 --> Undefined property: stdClass::$id_pinjam_ruang
+in APPPATH/Views/simlab/transaksi_peminjaman/data_pengajuan_alat.php on line 214.
+ 1 APPPATH/Views/simlab/transaksi_peminjaman/data_pengajuan_alat.php(214): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/simlab/transaksi_peminjaman/data_pengajuan_alat.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1177): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(54): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->dataPengajuanAlat()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 21:10:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:10:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:10:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:10:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:10:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:10:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:10:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:10:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 21:10:57 --> count(): Argument #1 ($value) must be of type Countable|array, null given
+in APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php on line 194.
+ 1 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(194): count()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 21:11:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:12:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:12:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:12:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:12:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:12:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:13:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:13:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:13:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:13:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 21:13:22 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 APPPATH/Models/Simlab/PeminjamanAlatModel.php(109): CodeIgniter\Database\BaseConnection->table()
+ 2 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(204): App\Models\Simlab\DetailPeminjamanAlatModel->updatePengembalian()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 21:13:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-07-03 21:13:52 --> mysqli_sql_exception: Unknown column 'kondisi_peminjaman' in 'field list' in /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(2462): CodeIgniter\Database\BaseConnection->query()
+#4 /home/d3ti.myfin.id/ci4_core/app/Models/Simlab/PeminjamanAlatModel.php(112): CodeIgniter\Database\BaseBuilder->update()
+#5 /home/d3ti.myfin.id/ci4_core/app/Controllers/Simlab/TransaksiPeminjamanController.php(204): App\Models\Simlab\DetailPeminjamanAlatModel->updatePengembalian()
+#6 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+#7 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/d3ti.myfin.id/public_html/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-03 21:13:52 --> Unknown column 'kondisi_peminjaman' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2462): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Simlab/PeminjamanAlatModel.php(112): CodeIgniter\Database\BaseBuilder->update()
+ 3 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(204): App\Models\Simlab\DetailPeminjamanAlatModel->updatePengembalian()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 21:14:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-07-03 21:14:31 --> mysqli_sql_exception: Unknown column 'kondisi_peminjaman' in 'field list' in /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(2462): CodeIgniter\Database\BaseConnection->query()
+#4 /home/d3ti.myfin.id/ci4_core/app/Models/Simlab/PeminjamanAlatModel.php(112): CodeIgniter\Database\BaseBuilder->update()
+#5 /home/d3ti.myfin.id/ci4_core/app/Controllers/Simlab/TransaksiPeminjamanController.php(204): App\Models\Simlab\DetailPeminjamanAlatModel->updatePengembalian()
+#6 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+#7 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/d3ti.myfin.id/public_html/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-03 21:14:31 --> Unknown column 'kondisi_peminjaman' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2462): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Simlab/PeminjamanAlatModel.php(112): CodeIgniter\Database\BaseBuilder->update()
+ 3 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(204): App\Models\Simlab\DetailPeminjamanAlatModel->updatePengembalian()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 21:14:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-07-03 21:14:40 --> mysqli_sql_exception: Unknown column 'kondisi_peminjaman' in 'field list' in /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(2462): CodeIgniter\Database\BaseConnection->query()
+#4 /home/d3ti.myfin.id/ci4_core/app/Models/Simlab/PeminjamanAlatModel.php(112): CodeIgniter\Database\BaseBuilder->update()
+#5 /home/d3ti.myfin.id/ci4_core/app/Controllers/Simlab/TransaksiPeminjamanController.php(204): App\Models\Simlab\DetailPeminjamanAlatModel->updatePengembalian()
+#6 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+#7 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/d3ti.myfin.id/public_html/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-03 21:14:40 --> Unknown column 'kondisi_peminjaman' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2462): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Simlab/PeminjamanAlatModel.php(112): CodeIgniter\Database\BaseBuilder->update()
+ 3 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(204): App\Models\Simlab\DetailPeminjamanAlatModel->updatePengembalian()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 21:15:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:15:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:15:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-07-03 21:15:22 --> mysqli_sql_exception: Unknown column 'kondisi_peminjaman' in 'field list' in /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(2462): CodeIgniter\Database\BaseConnection->query()
+#4 /home/d3ti.myfin.id/ci4_core/app/Models/Simlab/PeminjamanAlatModel.php(112): CodeIgniter\Database\BaseBuilder->update()
+#5 /home/d3ti.myfin.id/ci4_core/app/Controllers/Simlab/TransaksiPeminjamanController.php(204): App\Models\Simlab\DetailPeminjamanAlatModel->updatePengembalian()
+#6 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+#7 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/d3ti.myfin.id/public_html/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-03 21:15:22 --> Unknown column 'kondisi_peminjaman' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2462): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Simlab/PeminjamanAlatModel.php(112): CodeIgniter\Database\BaseBuilder->update()
+ 3 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(204): App\Models\Simlab\DetailPeminjamanAlatModel->updatePengembalian()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 21:15:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 21:15:59 --> CodeIgniter\Database\BaseBuilder::update(): Argument #3 ($limit) must be of type ?int, array given, called in /home/d3ti.myfin.id/ci4_core/app/Models/Simlab/PeminjamanAlatModel.php on line 112
+in SYSTEMPATH/Database/BaseBuilder.php on line 2435.
+ 1 APPPATH/Models/Simlab/PeminjamanAlatModel.php(112): CodeIgniter\Database\BaseBuilder->update()
+ 2 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(204): App\Models\Simlab\DetailPeminjamanAlatModel->updatePengembalian()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 21:16:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 21:16:31 --> CodeIgniter\Database\BaseBuilder::update(): Argument #3 ($limit) must be of type ?int, array given, called in /home/d3ti.myfin.id/ci4_core/app/Models/Simlab/PeminjamanAlatModel.php on line 112
+in SYSTEMPATH/Database/BaseBuilder.php on line 2435.
+ 1 APPPATH/Models/Simlab/PeminjamanAlatModel.php(112): CodeIgniter\Database\BaseBuilder->update()
+ 2 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(204): App\Models\Simlab\DetailPeminjamanAlatModel->updatePengembalian()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 21:16:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-07-03 21:16:42 --> mysqli_sql_exception: Unknown column 'kondisi_peminjaman' in 'field list' in /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(2462): CodeIgniter\Database\BaseConnection->query()
+#4 /home/d3ti.myfin.id/ci4_core/app/Models/Simlab/PeminjamanAlatModel.php(112): CodeIgniter\Database\BaseBuilder->update()
+#5 /home/d3ti.myfin.id/ci4_core/app/Controllers/Simlab/TransaksiPeminjamanController.php(204): App\Models\Simlab\DetailPeminjamanAlatModel->updatePengembalian()
+#6 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+#7 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/d3ti.myfin.id/public_html/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-03 21:16:42 --> Unknown column 'kondisi_peminjaman' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2462): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Simlab/PeminjamanAlatModel.php(112): CodeIgniter\Database\BaseBuilder->update()
+ 3 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(204): App\Models\Simlab\DetailPeminjamanAlatModel->updatePengembalian()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 21:17:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-07-03 21:17:05 --> mysqli_sql_exception: Unknown column 'status_peminjaman_alat' in 'field list' in /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(2462): CodeIgniter\Database\BaseConnection->query()
+#4 /home/d3ti.myfin.id/ci4_core/app/Models/Simlab/PeminjamanAlatModel.php(112): CodeIgniter\Database\BaseBuilder->update()
+#5 /home/d3ti.myfin.id/ci4_core/app/Controllers/Simlab/TransaksiPeminjamanController.php(204): App\Models\Simlab\DetailPeminjamanAlatModel->updatePengembalian()
+#6 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+#7 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/d3ti.myfin.id/public_html/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-03 21:17:05 --> Unknown column 'status_peminjaman_alat' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2462): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Simlab/PeminjamanAlatModel.php(112): CodeIgniter\Database\BaseBuilder->update()
+ 3 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(204): App\Models\Simlab\DetailPeminjamanAlatModel->updatePengembalian()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 21:17:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:17:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:17:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:17:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:17:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:17:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:23:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:23:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:25:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:25:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:25:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:26:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:27:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:27:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:28:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:28:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:28:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:28:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:28:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:28:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:28:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:29:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:29:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:30:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:30:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:30:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:30:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:30:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:30:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:30:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:30:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:32:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:32:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:32:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:32:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:32:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:32:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:32:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:33:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:33:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:33:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:33:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:33:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:33:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:33:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:33:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:33:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:34:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:34:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:34:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:34:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:34:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:34:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:34:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:34:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:34:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:35:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:35:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:35:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:35:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:39:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:39:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:39:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:39:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:39:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:39:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:39:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:46:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:46:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:47:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:47:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:47:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:47:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:47:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:47:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:47:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:47:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:47:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:48:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:48:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:48:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:48:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:48:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:48:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:49:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:49:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:49:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:49:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:49:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:49:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:49:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:50:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:50:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:50:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:50:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:50:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:50:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:50:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:50:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:51:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:51:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:51:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:51:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:51:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:51:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:51:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:52:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:52:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:54:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:54:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:54:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:54:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:55:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:55:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:56:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:57:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:57:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:57:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 21:57:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:04:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:04:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:05:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:06:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:07:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:07:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:07:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:08:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:09:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:09:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:09:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:09:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:10:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:10:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:10:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:10:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:10:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:10:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:10:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:12:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:12:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:12:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:12:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:12:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:13:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:13:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:13:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:13:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:17:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:17:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:17:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 22:17:56 --> foreach() argument must be of type array|object, null given
+in APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php on line 204.
+ 1 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(204): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 22:19:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:19:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:19:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:19:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:19:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:19:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:19:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:20:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:20:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:30:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:30:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:30:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:31:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:31:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:31:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:32:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:32:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 22:32:31 --> Undefined variable $totalTime
+in SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php on line 40.
+ 1 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(511): include('SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php')
+ 3 SYSTEMPATH/Debug/Toolbar.php(474): CodeIgniter\Debug\Toolbar->format()
+ 4 APPPATH/Config/Events.php(46): CodeIgniter\Debug\Toolbar->respond()
+ 5 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 6 SYSTEMPATH/CodeIgniter.php(350): CodeIgniter\Events\Events::trigger()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 22:32:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:32:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:32:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 22:32:57 --> Undefined variable $totalTime
+in SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php on line 40.
+ 1 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(511): include('SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php')
+ 3 SYSTEMPATH/Debug/Toolbar.php(474): CodeIgniter\Debug\Toolbar->format()
+ 4 APPPATH/Config/Events.php(46): CodeIgniter\Debug\Toolbar->respond()
+ 5 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 6 SYSTEMPATH/CodeIgniter.php(350): CodeIgniter\Events\Events::trigger()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-03 22:32:58 --> Undefined variable $totalTime
+in SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php on line 40.
+ 1 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(511): include('SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php')
+ 3 SYSTEMPATH/Debug/Toolbar.php(474): CodeIgniter\Debug\Toolbar->format()
+ 4 APPPATH/Config/Events.php(46): CodeIgniter\Debug\Toolbar->respond()
+ 5 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 6 SYSTEMPATH/CodeIgniter.php(350): CodeIgniter\Events\Events::trigger()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-03 22:32:58 --> Undefined variable $totalTime
+in SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php on line 40.
+ 1 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(511): include('SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php')
+ 3 SYSTEMPATH/Debug/Toolbar.php(474): CodeIgniter\Debug\Toolbar->format()
+ 4 APPPATH/Config/Events.php(46): CodeIgniter\Debug\Toolbar->respond()
+ 5 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 6 SYSTEMPATH/CodeIgniter.php(350): CodeIgniter\Events\Events::trigger()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 22:33:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:33:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:33:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:33:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:37:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:38:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:38:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:38:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 22:38:47 --> foreach() argument must be of type array|object, null given
+in APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php on line 218.
+ 1 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 22:41:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:41:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:41:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:41:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:41:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:41:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:41:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:42:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:42:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:42:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:42:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 22:42:45 --> Undefined variable $totalTime
+in SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php on line 40.
+ 1 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(511): include('SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php')
+ 3 SYSTEMPATH/Debug/Toolbar.php(474): CodeIgniter\Debug\Toolbar->format()
+ 4 APPPATH/Config/Events.php(46): CodeIgniter\Debug\Toolbar->respond()
+ 5 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 6 SYSTEMPATH/CodeIgniter.php(350): CodeIgniter\Events\Events::trigger()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 22:42:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:42:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:43:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 22:43:01 --> Undefined variable $totalTime
+in SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php on line 40.
+ 1 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(511): include('SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php')
+ 3 SYSTEMPATH/Debug/Toolbar.php(474): CodeIgniter\Debug\Toolbar->format()
+ 4 APPPATH/Config/Events.php(46): CodeIgniter\Debug\Toolbar->respond()
+ 5 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 6 SYSTEMPATH/CodeIgniter.php(350): CodeIgniter\Events\Events::trigger()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 22:45:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:45:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 22:45:07 --> Undefined variable $totalTime
+in SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php on line 40.
+ 1 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(511): include('SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php')
+ 3 SYSTEMPATH/Debug/Toolbar.php(474): CodeIgniter\Debug\Toolbar->format()
+ 4 APPPATH/Config/Events.php(46): CodeIgniter\Debug\Toolbar->respond()
+ 5 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 6 SYSTEMPATH/CodeIgniter.php(350): CodeIgniter\Events\Events::trigger()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 22:45:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:45:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:45:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:45:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 22:45:28 --> Undefined variable $totalTime
+in SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php on line 40.
+ 1 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(511): include('SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php')
+ 3 SYSTEMPATH/Debug/Toolbar.php(474): CodeIgniter\Debug\Toolbar->format()
+ 4 APPPATH/Config/Events.php(46): CodeIgniter\Debug\Toolbar->respond()
+ 5 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 6 SYSTEMPATH/CodeIgniter.php(350): CodeIgniter\Events\Events::trigger()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 22:45:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 22:45:29 --> Undefined variable $totalTime
+in SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php on line 40.
+ 1 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(511): include('SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php')
+ 3 SYSTEMPATH/Debug/Toolbar.php(474): CodeIgniter\Debug\Toolbar->format()
+ 4 APPPATH/Config/Events.php(46): CodeIgniter\Debug\Toolbar->respond()
+ 5 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 6 SYSTEMPATH/CodeIgniter.php(350): CodeIgniter\Events\Events::trigger()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 22:45:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 22:45:39 --> Undefined variable $totalTime
+in SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php on line 40.
+ 1 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(511): include('SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php')
+ 3 SYSTEMPATH/Debug/Toolbar.php(474): CodeIgniter\Debug\Toolbar->format()
+ 4 APPPATH/Config/Events.php(46): CodeIgniter\Debug\Toolbar->respond()
+ 5 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 6 SYSTEMPATH/CodeIgniter.php(350): CodeIgniter\Events\Events::trigger()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 22:45:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 22:45:45 --> Undefined variable $totalTime
+in SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php on line 40.
+ 1 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(511): include('SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php')
+ 3 SYSTEMPATH/Debug/Toolbar.php(474): CodeIgniter\Debug\Toolbar->format()
+ 4 APPPATH/Config/Events.php(46): CodeIgniter\Debug\Toolbar->respond()
+ 5 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 6 SYSTEMPATH/CodeIgniter.php(350): CodeIgniter\Events\Events::trigger()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 22:45:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:46:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:46:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:46:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 22:46:18 --> Undefined variable $totalTime
+in SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php on line 40.
+ 1 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(511): include('SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php')
+ 3 SYSTEMPATH/Debug/Toolbar.php(474): CodeIgniter\Debug\Toolbar->format()
+ 4 APPPATH/Config/Events.php(46): CodeIgniter\Debug\Toolbar->respond()
+ 5 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 6 SYSTEMPATH/CodeIgniter.php(350): CodeIgniter\Events\Events::trigger()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 22:46:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:47:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:48:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:48:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:49:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:49:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 22:49:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:01:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:01:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:01:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 23:01:34 --> Undefined variable $totalTime
+in SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php on line 40.
+ 1 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(511): include('SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php')
+ 3 SYSTEMPATH/Debug/Toolbar.php(474): CodeIgniter\Debug\Toolbar->format()
+ 4 APPPATH/Config/Events.php(46): CodeIgniter\Debug\Toolbar->respond()
+ 5 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 6 SYSTEMPATH/CodeIgniter.php(350): CodeIgniter\Events\Events::trigger()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 23:01:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:01:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:01:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:01:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 23:01:55 --> Undefined variable $totalTime
+in SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php on line 40.
+ 1 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(511): include('SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php')
+ 3 SYSTEMPATH/Debug/Toolbar.php(474): CodeIgniter\Debug\Toolbar->format()
+ 4 APPPATH/Config/Events.php(46): CodeIgniter\Debug\Toolbar->respond()
+ 5 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 6 SYSTEMPATH/CodeIgniter.php(350): CodeIgniter\Events\Events::trigger()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 23:02:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:02:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:02:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:02:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:02:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:02:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:02:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:02:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:02:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:02:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 23:02:35 --> Undefined variable $totalTime
+in SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php on line 40.
+ 1 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(511): include('SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php')
+ 3 SYSTEMPATH/Debug/Toolbar.php(474): CodeIgniter\Debug\Toolbar->format()
+ 4 APPPATH/Config/Events.php(46): CodeIgniter\Debug\Toolbar->respond()
+ 5 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 6 SYSTEMPATH/CodeIgniter.php(350): CodeIgniter\Events\Events::trigger()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 23:02:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:02:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 23:02:47 --> Undefined variable $totalTime
+in SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php on line 40.
+ 1 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(511): include('SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php')
+ 3 SYSTEMPATH/Debug/Toolbar.php(474): CodeIgniter\Debug\Toolbar->format()
+ 4 APPPATH/Config/Events.php(46): CodeIgniter\Debug\Toolbar->respond()
+ 5 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 6 SYSTEMPATH/CodeIgniter.php(350): CodeIgniter\Events\Events::trigger()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 23:02:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:03:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:03:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:03:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 23:03:20 --> Undefined variable $totalTime
+in SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php on line 40.
+ 1 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(511): include('SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php')
+ 3 SYSTEMPATH/Debug/Toolbar.php(474): CodeIgniter\Debug\Toolbar->format()
+ 4 APPPATH/Config/Events.php(46): CodeIgniter\Debug\Toolbar->respond()
+ 5 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 6 SYSTEMPATH/CodeIgniter.php(350): CodeIgniter\Events\Events::trigger()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 23:03:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:03:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:03:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 23:03:47 --> Undefined variable $totalTime
+in SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php on line 40.
+ 1 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(511): include('SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php')
+ 3 SYSTEMPATH/Debug/Toolbar.php(474): CodeIgniter\Debug\Toolbar->format()
+ 4 APPPATH/Config/Events.php(46): CodeIgniter\Debug\Toolbar->respond()
+ 5 SYSTEMPATH/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 6 SYSTEMPATH/CodeIgniter.php(350): CodeIgniter\Events\Events::trigger()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 23:03:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:03:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:03:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:04:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:08:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:08:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:08:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 23:08:45 --> Cannot use object of type stdClass as array
+in APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php on line 215.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 23:09:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:09:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:09:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 23:09:21 --> Cannot use object of type stdClass as array
+in APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php on line 215.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 23:10:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 23:10:23 --> There is no data to update.
+in SYSTEMPATH/BaseModel.php on line 1680.
+ 1 SYSTEMPATH/BaseModel.php(1680): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/BaseModel.php(910): CodeIgniter\BaseModel->transformDataToArray()
+ 3 SYSTEMPATH/Model.php(755): CodeIgniter\BaseModel->update()
+ 4 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(216): CodeIgniter\Model->update()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 23:10:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:10:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:10:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 23:10:47 --> There is no data to update.
+in SYSTEMPATH/BaseModel.php on line 1680.
+ 1 SYSTEMPATH/BaseModel.php(1680): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/BaseModel.php(910): CodeIgniter\BaseModel->transformDataToArray()
+ 3 SYSTEMPATH/Model.php(755): CodeIgniter\BaseModel->update()
+ 4 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(216): CodeIgniter\Model->update()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 23:12:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 23:12:19 --> There is no data to update.
+in SYSTEMPATH/BaseModel.php on line 1680.
+ 1 SYSTEMPATH/BaseModel.php(1680): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/BaseModel.php(910): CodeIgniter\BaseModel->transformDataToArray()
+ 3 SYSTEMPATH/Model.php(755): CodeIgniter\BaseModel->update()
+ 4 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(216): CodeIgniter\Model->update()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 23:12:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:12:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:12:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 23:12:29 --> There is no data to update.
+in SYSTEMPATH/BaseModel.php on line 1680.
+ 1 SYSTEMPATH/BaseModel.php(1680): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/BaseModel.php(910): CodeIgniter\BaseModel->transformDataToArray()
+ 3 SYSTEMPATH/Model.php(755): CodeIgniter\BaseModel->update()
+ 4 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(216): CodeIgniter\Model->update()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 23:13:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 23:13:11 --> There is no data to update.
+in SYSTEMPATH/BaseModel.php on line 1680.
+ 1 SYSTEMPATH/BaseModel.php(1680): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/BaseModel.php(910): CodeIgniter\BaseModel->transformDataToArray()
+ 3 SYSTEMPATH/Model.php(755): CodeIgniter\BaseModel->update()
+ 4 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(216): CodeIgniter\Model->update()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 23:14:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 23:14:25 --> There is no data to update.
+in SYSTEMPATH/BaseModel.php on line 1680.
+ 1 SYSTEMPATH/BaseModel.php(1680): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/BaseModel.php(910): CodeIgniter\BaseModel->transformDataToArray()
+ 3 SYSTEMPATH/Model.php(755): CodeIgniter\BaseModel->update()
+ 4 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(217): CodeIgniter\Model->update()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 23:16:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:16:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:18:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 23:18:42 --> There is no data to update.
+in SYSTEMPATH/BaseModel.php on line 1680.
+ 1 SYSTEMPATH/BaseModel.php(1680): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/BaseModel.php(910): CodeIgniter\BaseModel->transformDataToArray()
+ 3 SYSTEMPATH/Model.php(755): CodeIgniter\BaseModel->update()
+ 4 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(217): CodeIgniter\Model->update()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 23:18:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:18:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:18:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:18:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:18:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:18:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:18:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:19:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:19:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:19:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:19:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:19:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:19:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:19:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:19:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:19:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:19:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:19:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 23:19:58 --> There is no data to update.
+in SYSTEMPATH/BaseModel.php on line 1680.
+ 1 SYSTEMPATH/BaseModel.php(1680): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/BaseModel.php(910): CodeIgniter\BaseModel->transformDataToArray()
+ 3 SYSTEMPATH/Model.php(755): CodeIgniter\BaseModel->update()
+ 4 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(217): CodeIgniter\Model->update()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 23:20:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:20:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:21:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 23:21:04 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php on line 212.
+ 1 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(212): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 23:23:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 23:23:20 --> There is no data to update.
+in SYSTEMPATH/BaseModel.php on line 1680.
+ 1 SYSTEMPATH/BaseModel.php(1680): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/BaseModel.php(910): CodeIgniter\BaseModel->transformDataToArray()
+ 3 SYSTEMPATH/Model.php(755): CodeIgniter\BaseModel->update()
+ 4 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(217): CodeIgniter\Model->update()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 23:24:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:24:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:25:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:25:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:25:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:25:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:26:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:26:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:26:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:26:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:26:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:26:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:26:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:26:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:26:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:26:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:27:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:27:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:27:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:27:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:28:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:28:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:28:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:28:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:29:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:29:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:29:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:29:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:29:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:29:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:29:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:29:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:29:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:29:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:29:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:30:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:30:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:30:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:30:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:30:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:30:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:30:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:30:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:30:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:30:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:30:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:30:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:30:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:30:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 23:30:47 --> There is no data to update.
+in SYSTEMPATH/BaseModel.php on line 1680.
+ 1 SYSTEMPATH/BaseModel.php(1680): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/BaseModel.php(910): CodeIgniter\BaseModel->transformDataToArray()
+ 3 SYSTEMPATH/Model.php(755): CodeIgniter\BaseModel->update()
+ 4 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(217): CodeIgniter\Model->update()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 23:30:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:31:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:31:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:31:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:31:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:31:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:31:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:31:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:31:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:31:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:31:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 23:31:59 --> There is no data to update.
+in SYSTEMPATH/BaseModel.php on line 1680.
+ 1 SYSTEMPATH/BaseModel.php(1680): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/BaseModel.php(910): CodeIgniter\BaseModel->transformDataToArray()
+ 3 SYSTEMPATH/Model.php(755): CodeIgniter\BaseModel->update()
+ 4 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(217): CodeIgniter\Model->update()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 23:32:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:32:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:32:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:33:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:33:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:33:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:33:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:34:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:34:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:34:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 23:34:32 --> There is no data to update.
+in SYSTEMPATH/BaseModel.php on line 1680.
+ 1 SYSTEMPATH/BaseModel.php(1680): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/BaseModel.php(910): CodeIgniter\BaseModel->transformDataToArray()
+ 3 SYSTEMPATH/Model.php(755): CodeIgniter\BaseModel->update()
+ 4 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(217): CodeIgniter\Model->update()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 23:34:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:34:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:35:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 23:35:08 --> There is no data to update.
+in SYSTEMPATH/BaseModel.php on line 1680.
+ 1 SYSTEMPATH/BaseModel.php(1680): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/BaseModel.php(910): CodeIgniter\BaseModel->transformDataToArray()
+ 3 SYSTEMPATH/Model.php(755): CodeIgniter\BaseModel->update()
+ 4 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(217): CodeIgniter\Model->update()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 23:35:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:35:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:35:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 23:35:17 --> There is no data to update.
+in SYSTEMPATH/BaseModel.php on line 1680.
+ 1 SYSTEMPATH/BaseModel.php(1680): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/BaseModel.php(910): CodeIgniter\BaseModel->transformDataToArray()
+ 3 SYSTEMPATH/Model.php(755): CodeIgniter\BaseModel->update()
+ 4 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(217): CodeIgniter\Model->update()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 23:37:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:37:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:37:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:37:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:38:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 23:38:07 --> CodeIgniter\BaseModel::transformDataToArray(): Return value must be of type array, string returned
+in SYSTEMPATH/BaseModel.php on line 1706.
+ 1 SYSTEMPATH/BaseModel.php(910): CodeIgniter\BaseModel->transformDataToArray()
+ 2 SYSTEMPATH/Model.php(755): CodeIgniter\BaseModel->update()
+ 3 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(216): CodeIgniter\Model->update()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 23:39:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:39:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:39:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:39:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:40:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:40:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:40:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:40:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:40:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:41:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:41:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:41:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:41:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:41:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:42:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:42:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 23:42:29 --> There is no data to update.
+in SYSTEMPATH/BaseModel.php on line 1680.
+ 1 SYSTEMPATH/BaseModel.php(1680): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/BaseModel.php(910): CodeIgniter\BaseModel->transformDataToArray()
+ 3 SYSTEMPATH/Model.php(755): CodeIgniter\BaseModel->update()
+ 4 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(217): CodeIgniter\Model->update()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 23:43:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 23:43:07 --> There is no data to update.
+in SYSTEMPATH/BaseModel.php on line 1680.
+ 1 SYSTEMPATH/BaseModel.php(1680): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/BaseModel.php(910): CodeIgniter\BaseModel->transformDataToArray()
+ 3 SYSTEMPATH/Model.php(755): CodeIgniter\BaseModel->update()
+ 4 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(217): CodeIgniter\Model->update()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 23:44:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:45:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:45:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 23:45:13 --> There is no data to update.
+in SYSTEMPATH/BaseModel.php on line 1680.
+ 1 SYSTEMPATH/BaseModel.php(1680): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/BaseModel.php(910): CodeIgniter\BaseModel->transformDataToArray()
+ 3 SYSTEMPATH/Model.php(755): CodeIgniter\BaseModel->update()
+ 4 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(217): CodeIgniter\Model->update()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 23:45:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:45:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:45:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 23:45:22 --> There is no data to update.
+in SYSTEMPATH/BaseModel.php on line 1680.
+ 1 SYSTEMPATH/BaseModel.php(1680): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/BaseModel.php(910): CodeIgniter\BaseModel->transformDataToArray()
+ 3 SYSTEMPATH/Model.php(755): CodeIgniter\BaseModel->update()
+ 4 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(217): CodeIgniter\Model->update()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 23:45:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 23:45:34 --> There is no data to update.
+in SYSTEMPATH/BaseModel.php on line 1680.
+ 1 SYSTEMPATH/BaseModel.php(1680): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/BaseModel.php(910): CodeIgniter\BaseModel->transformDataToArray()
+ 3 SYSTEMPATH/Model.php(755): CodeIgniter\BaseModel->update()
+ 4 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(217): CodeIgniter\Model->update()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 23:45:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:46:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:47:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:47:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:47:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:47:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:47:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:47:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:47:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:48:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:48:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:48:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:48:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:48:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:48:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:48:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:48:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:48:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:48:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:48:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:48:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:48:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:49:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:49:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:49:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:49:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:49:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:49:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:49:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:49:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:49:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:51:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:51:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:52:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:53:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 23:53:57 --> Cannot use object of type stdClass as array
+in APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php on line 228.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 23:54:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 23:54:26 --> Attempt to read property "kondisi_pengembalian" on array
+in APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php on line 228.
+ 1 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(228): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 23:54:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 23:54:47 --> Cannot use object of type stdClass as array
+in APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php on line 228.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 23:54:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 23:54:57 --> Undefined array key 0
+in APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php on line 228.
+ 1 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(228): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 23:55:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 23:55:09 --> Attempt to read property "kondisi_pengembalian" on array
+in APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php on line 228.
+ 1 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(228): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 23:55:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:55:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:55:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:55:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:55:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:55:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:55:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:55:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:55:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:55:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:55:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:55:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:55:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:57:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:57:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:57:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:57:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:57:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:57:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:57:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:57:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:57:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:58:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 23:58:21 --> Illegal string offset "11da082d-906b-4915-beeb-f091b1463869"
+in APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php on line 221.
+ 1 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(221): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 23:58:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 23:59:00 --> Illegal string offset "11da082d-906b-4915-beeb-f091b1463869"
+in APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php on line 221.
+ 1 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(221): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 23:59:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:59:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:59:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:59:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:59:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-03 23:59:31 --> Attempt to read property "kondisi_pengembalian" on array
+in APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php on line 228.
+ 1 APPPATH/Controllers/Simlab/TransaksiPeminjamanController.php(228): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Simlab\TransaksiPeminjamanController->verif_pengembalian_alat()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-03 23:59:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:59:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-03 23:59:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

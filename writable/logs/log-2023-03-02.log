@@ -1,0 +1,148 @@
+CRITICAL - 2023-03-02 04:46:21 --> Invalid file: "bidang/tambah.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1177): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/BidangController.php(30): view()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\BidangController->tambah()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-02 04:52:27 --> mysqli_sql_exception: Table 'd3ti_psdku.sub_bidang' doesn't exist in /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+#4 /home/d3ti.myfin.id/ci4_core/app/Models/SubBidangModel.php(19): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/d3ti.myfin.id/ci4_core/app/Controllers/SubBidangController.php(22): App\Models\SubBidangModel->getSubBidangandBidang()
+#6 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(934): App\Controllers\SubBidangController->index()
+#7 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/d3ti.myfin.id/public_html/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-03-02 04:52:27 --> Table 'd3ti_psdku.sub_bidang' doesn't exist
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/SubBidangModel.php(19): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/SubBidangController.php(22): App\Models\SubBidangModel->getSubBidangandBidang()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SubBidangController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-02 17:03:19 --> mysqli_sql_exception: Table 'd3ti_psdku.sipema_mahasiswa' doesn't exist in /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+#4 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Model.php(240): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+#6 /home/d3ti.myfin.id/ci4_core/app/Controllers/MahasiswaController.php(19): CodeIgniter\BaseModel->findAll()
+#7 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(934): App\Controllers\MahasiswaController->index()
+#8 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#9 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/d3ti.myfin.id/public_html/index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-03-02 17:03:19 --> Table 'd3ti_psdku.sipema_mahasiswa' doesn't exist
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(240): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+ 4 APPPATH/Controllers/MahasiswaController.php(19): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\MahasiswaController->index()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 17:07:18 --> The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\tracer/LandingController::index"
+in SYSTEMPATH/Router/Router.php on line 473.
+ 1 SYSTEMPATH/Router/Router.php(473): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName()
+ 2 SYSTEMPATH/Router/Router.php(181): CodeIgniter\Router\Router->checkRoutes()
+ 3 SYSTEMPATH/CodeIgniter.php(815): CodeIgniter\Router\Router->handle()
+ 4 SYSTEMPATH/CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 17:11:21 --> The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\tracer/LandingController::index"
+in SYSTEMPATH/Router/Router.php on line 473.
+ 1 SYSTEMPATH/Router/Router.php(473): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName()
+ 2 SYSTEMPATH/Router/Router.php(181): CodeIgniter\Router\Router->checkRoutes()
+ 3 SYSTEMPATH/CodeIgniter.php(815): CodeIgniter\Router\Router->handle()
+ 4 SYSTEMPATH/CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 17:14:37 --> The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\tracer/LandingController::index"
+in SYSTEMPATH/Router/Router.php on line 473.
+ 1 SYSTEMPATH/Router/Router.php(473): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName()
+ 2 SYSTEMPATH/Router/Router.php(181): CodeIgniter\Router\Router->checkRoutes()
+ 3 SYSTEMPATH/CodeIgniter.php(815): CodeIgniter\Router\Router->handle()
+ 4 SYSTEMPATH/CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 17:16:01 --> Invalid file: "mahasiswa/tambah.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1177): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/MahasiswaController.php(30): view()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\MahasiswaController->tambah()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-02 17:20:08 --> mysqli_sql_exception: Table 'd3ti_psdku.sub_bidang' doesn't exist in /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+#4 /home/d3ti.myfin.id/ci4_core/app/Models/SubBidangModel.php(19): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/d3ti.myfin.id/ci4_core/app/Controllers/SubBidangController.php(22): App\Models\SubBidangModel->getSubBidangandBidang()
+#6 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(934): App\Controllers\SubBidangController->index()
+#7 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/d3ti.myfin.id/public_html/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-03-02 17:20:08 --> Table 'd3ti_psdku.sub_bidang' doesn't exist
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/SubBidangModel.php(19): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/SubBidangController.php(22): App\Models\SubBidangModel->getSubBidangandBidang()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SubBidangController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-02 17:20:26 --> mysqli_sql_exception: Table 'd3ti_psdku.sub_bidang' doesn't exist in /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+#4 /home/d3ti.myfin.id/ci4_core/app/Models/SubBidangModel.php(19): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/d3ti.myfin.id/ci4_core/app/Controllers/SubBidangController.php(22): App\Models\SubBidangModel->getSubBidangandBidang()
+#6 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(934): App\Controllers\SubBidangController->index()
+#7 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /home/d3ti.myfin.id/ci4_core/vendor/codeigniter4/framework/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/d3ti.myfin.id/public_html/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-03-02 17:20:26 --> Table 'd3ti_psdku.sub_bidang' doesn't exist
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/SubBidangModel.php(19): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/SubBidangController.php(22): App\Models\SubBidangModel->getSubBidangandBidang()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SubBidangController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 17:23:47 --> The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\tracer/LandingController::index"
+in SYSTEMPATH/Router/Router.php on line 473.
+ 1 SYSTEMPATH/Router/Router.php(473): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName()
+ 2 SYSTEMPATH/Router/Router.php(181): CodeIgniter\Router\Router->checkRoutes()
+ 3 SYSTEMPATH/CodeIgniter.php(815): CodeIgniter\Router\Router->handle()
+ 4 SYSTEMPATH/CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 17:25:49 --> The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\/tracer/LandingController::index"
+in SYSTEMPATH/Router/Router.php on line 473.
+ 1 SYSTEMPATH/Router/Router.php(473): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName()
+ 2 SYSTEMPATH/Router/Router.php(181): CodeIgniter\Router\Router->checkRoutes()
+ 3 SYSTEMPATH/CodeIgniter.php(815): CodeIgniter\Router\Router->handle()
+ 4 SYSTEMPATH/CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

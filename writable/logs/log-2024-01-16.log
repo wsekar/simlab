@@ -1,0 +1,77 @@
+INFO - 2024-01-16 09:39:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 09:39:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\LandingController::$cms is deprecated in APPPATH\Controllers\LandingController.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\LandingController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+WARNING - 2024-01-16 09:39:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\LandingController::$faq is deprecated in APPPATH\Controllers\LandingController.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\LandingController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+WARNING - 2024-01-16 09:39:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\LandingController::$alumni_berprestasi is deprecated in APPPATH\Controllers\LandingController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\LandingController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+WARNING - 2024-01-16 09:39:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\LandingController::$lowongan_kerja is deprecated in APPPATH\Controllers\LandingController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\LandingController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+WARNING - 2024-01-16 09:39:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\LandingController::$informasi_magang is deprecated in APPPATH\Controllers\LandingController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\LandingController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+WARNING - 2024-01-16 09:39:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\LandingController::$tips_karir is deprecated in APPPATH\Controllers\LandingController.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\LandingController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-16 09:39:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-16 09:39:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-16 09:39:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\LandingController::$cms is deprecated in APPPATH\Controllers\LandingController.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\LandingController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+WARNING - 2024-01-16 09:39:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\LandingController::$faq is deprecated in APPPATH\Controllers\LandingController.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\LandingController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+WARNING - 2024-01-16 09:39:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\LandingController::$alumni_berprestasi is deprecated in APPPATH\Controllers\LandingController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\LandingController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+WARNING - 2024-01-16 09:39:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\LandingController::$lowongan_kerja is deprecated in APPPATH\Controllers\LandingController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\LandingController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+WARNING - 2024-01-16 09:39:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\LandingController::$informasi_magang is deprecated in APPPATH\Controllers\LandingController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\LandingController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+WARNING - 2024-01-16 09:39:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\LandingController::$tips_karir is deprecated in APPPATH\Controllers\LandingController.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\LandingController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-16 09:39:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-16 09:39:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

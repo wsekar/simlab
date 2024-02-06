@@ -1,0 +1,322 @@
+CRITICAL - 2023-02-14 02:33:41 --> Invalid file: "bidang/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('bidang/index.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('bidang/index', [], true)
+ 3 APPPATH\Controllers\BidangController.php(21): view('bidang/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\BidangController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BidangController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+ERROR - 2023-02-14 13:23:22 --> mysqli_sql_exception: Table 'sipema.subbidang' doesn't exist in E:\Kuliah\Kumpulan Tugas Kuliah\UNS-D3 TI\SEMESTER 6\TA\Sistem\sipema\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 E:\Kuliah\Kumpulan Tugas Kuliah\UNS-D3 TI\SEMESTER 6\TA\Sistem\sipema\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 E:\Kuliah\Kumpulan Tugas Kuliah\UNS-D3 TI\SEMESTER 6\TA\Sistem\sipema\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 E:\Kuliah\Kumpulan Tugas Kuliah\UNS-D3 TI\SEMESTER 6\TA\Sistem\sipema\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 E:\Kuliah\Kumpulan Tugas Kuliah\UNS-D3 TI\SEMESTER 6\TA\Sistem\sipema\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 E:\Kuliah\Kumpulan Tugas Kuliah\UNS-D3 TI\SEMESTER 6\TA\Sistem\sipema\vendor\codeigniter4\framework\system\Model.php(240): CodeIgniter\Database\BaseBuilder->get()
+#5 E:\Kuliah\Kumpulan Tugas Kuliah\UNS-D3 TI\SEMESTER 6\TA\Sistem\sipema\vendor\codeigniter4\framework\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 E:\Kuliah\Kumpulan Tugas Kuliah\UNS-D3 TI\SEMESTER 6\TA\Sistem\sipema\app\Controllers\SubBidangController.php(19): CodeIgniter\BaseModel->findAll()
+#7 E:\Kuliah\Kumpulan Tugas Kuliah\UNS-D3 TI\SEMESTER 6\TA\Sistem\sipema\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\SubBidangController->index()
+#8 E:\Kuliah\Kumpulan Tugas Kuliah\UNS-D3 TI\SEMESTER 6\TA\Sistem\sipema\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubBidangController))
+#9 E:\Kuliah\Kumpulan Tugas Kuliah\UNS-D3 TI\SEMESTER 6\TA\Sistem\sipema\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 E:\Kuliah\Kumpulan Tugas Kuliah\UNS-D3 TI\SEMESTER 6\TA\Sistem\sipema\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 E:\Kuliah\Kumpulan Tugas Kuliah\UNS-D3 TI\SEMESTER 6\TA\Sistem\sipema\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('E:\\Kuliah\\Kumpu...')
+#12 {main}
+CRITICAL - 2023-02-14 13:23:22 --> Table 'sipema.subbidang' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `subbidang`', [], false)
+ 2 SYSTEMPATH\Model.php(240): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\SubBidangController.php(19): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SubBidangController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubBidangController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-14 14:00:42 --> Cannot use object of type stdClass as array
+in APPPATH\Views\subbidang\tambah.php on line 29.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('subbidang/tambah', [], true)
+ 4 APPPATH\Controllers\SubBidangController.php(33): view('subbidang/tambah', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SubBidangController->tambah()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubBidangController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-14 14:11:59 --> Undefined variable $validation
+in APPPATH\Views\subbidang\tambah.php on line 23.
+ 1 APPPATH\Views\subbidang\tambah.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $validation', 'APPPATH\\Views\\subbidang\\tambah.php', 23)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\subbidang\\tambah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('subbidang/tambah', [], true)
+ 5 APPPATH\Controllers\SubBidangController.php(34): view('subbidang/tambah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SubBidangController->tambah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubBidangController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-02-14 14:27:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-14 14:29:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-02-14 14:33:03 --> Call to undefined method App\Models\SubBidangModel::hasOne
+in SYSTEMPATH\Model.php on line 841.
+ 1 APPPATH\Models\SubBidangModel.php(17): CodeIgniter\Model->__call('hasOne', [...])
+ 2 APPPATH\Controllers\SubBidangController.php(22): App\Models\SubBidangModel->bidang()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SubBidangController->index()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubBidangController))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+ERROR - 2023-02-14 14:35:55 --> mysqli_sql_exception: Unknown column 'bidang.id' in 'on clause' in E:\Kuliah\Kumpulan Tugas Kuliah\UNS-D3 TI\SEMESTER 6\TA\Sistem\sipema\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 E:\Kuliah\Kumpulan Tugas Kuliah\UNS-D3 TI\SEMESTER 6\TA\Sistem\sipema\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 E:\Kuliah\Kumpulan Tugas Kuliah\UNS-D3 TI\SEMESTER 6\TA\Sistem\sipema\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 E:\Kuliah\Kumpulan Tugas Kuliah\UNS-D3 TI\SEMESTER 6\TA\Sistem\sipema\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 E:\Kuliah\Kumpulan Tugas Kuliah\UNS-D3 TI\SEMESTER 6\TA\Sistem\sipema\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 E:\Kuliah\Kumpulan Tugas Kuliah\UNS-D3 TI\SEMESTER 6\TA\Sistem\sipema\app\Models\SubBidangModel.php(19): CodeIgniter\Database\BaseBuilder->get()
+#5 E:\Kuliah\Kumpulan Tugas Kuliah\UNS-D3 TI\SEMESTER 6\TA\Sistem\sipema\app\Controllers\SubBidangController.php(22): App\Models\SubBidangModel->getSubBidangandBidang()
+#6 E:\Kuliah\Kumpulan Tugas Kuliah\UNS-D3 TI\SEMESTER 6\TA\Sistem\sipema\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\SubBidangController->index()
+#7 E:\Kuliah\Kumpulan Tugas Kuliah\UNS-D3 TI\SEMESTER 6\TA\Sistem\sipema\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubBidangController))
+#8 E:\Kuliah\Kumpulan Tugas Kuliah\UNS-D3 TI\SEMESTER 6\TA\Sistem\sipema\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\Kuliah\Kumpulan Tugas Kuliah\UNS-D3 TI\SEMESTER 6\TA\Sistem\sipema\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 E:\Kuliah\Kumpulan Tugas Kuliah\UNS-D3 TI\SEMESTER 6\TA\Sistem\sipema\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('E:\\Kuliah\\Kumpu...')
+#11 {main}
+CRITICAL - 2023-02-14 14:35:55 --> Unknown column 'bidang.id' in 'on clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `sub_bidang`
+JOIN `bidang` ON `bidang`.`id`= `sub_bidang`.`id_bidang`', [], false)
+ 2 APPPATH\Models\SubBidangModel.php(19): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\SubBidangController.php(22): App\Models\SubBidangModel->getSubBidangandBidang()
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SubBidangController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubBidangController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+ERROR - 2023-02-14 14:36:03 --> mysqli_sql_exception: Unknown column 'bidang.id' in 'on clause' in E:\Kuliah\Kumpulan Tugas Kuliah\UNS-D3 TI\SEMESTER 6\TA\Sistem\sipema\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 E:\Kuliah\Kumpulan Tugas Kuliah\UNS-D3 TI\SEMESTER 6\TA\Sistem\sipema\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 E:\Kuliah\Kumpulan Tugas Kuliah\UNS-D3 TI\SEMESTER 6\TA\Sistem\sipema\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 E:\Kuliah\Kumpulan Tugas Kuliah\UNS-D3 TI\SEMESTER 6\TA\Sistem\sipema\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 E:\Kuliah\Kumpulan Tugas Kuliah\UNS-D3 TI\SEMESTER 6\TA\Sistem\sipema\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 E:\Kuliah\Kumpulan Tugas Kuliah\UNS-D3 TI\SEMESTER 6\TA\Sistem\sipema\app\Models\SubBidangModel.php(19): CodeIgniter\Database\BaseBuilder->get()
+#5 E:\Kuliah\Kumpulan Tugas Kuliah\UNS-D3 TI\SEMESTER 6\TA\Sistem\sipema\app\Controllers\SubBidangController.php(22): App\Models\SubBidangModel->getSubBidangandBidang()
+#6 E:\Kuliah\Kumpulan Tugas Kuliah\UNS-D3 TI\SEMESTER 6\TA\Sistem\sipema\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\SubBidangController->index()
+#7 E:\Kuliah\Kumpulan Tugas Kuliah\UNS-D3 TI\SEMESTER 6\TA\Sistem\sipema\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubBidangController))
+#8 E:\Kuliah\Kumpulan Tugas Kuliah\UNS-D3 TI\SEMESTER 6\TA\Sistem\sipema\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\Kuliah\Kumpulan Tugas Kuliah\UNS-D3 TI\SEMESTER 6\TA\Sistem\sipema\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 E:\Kuliah\Kumpulan Tugas Kuliah\UNS-D3 TI\SEMESTER 6\TA\Sistem\sipema\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('E:\\Kuliah\\Kumpu...')
+#11 {main}
+CRITICAL - 2023-02-14 14:36:03 --> Unknown column 'bidang.id' in 'on clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `sub_bidang`
+JOIN `bidang` ON `bidang`.`id` = `sub_bidang`.`id_bidang`', [], false)
+ 2 APPPATH\Models\SubBidangModel.php(19): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\SubBidangController.php(22): App\Models\SubBidangModel->getSubBidangandBidang()
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SubBidangController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubBidangController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-14 14:36:14 --> Undefined variable $subbidang
+in APPPATH\Views\subbidang\index.php on line 33.
+ 1 APPPATH\Views\subbidang\index.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $subbidang', 'APPPATH\\Views\\subbidang\\index.php', 33)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\subbidang\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('subbidang/index', [], true)
+ 5 APPPATH\Controllers\SubBidangController.php(24): view('subbidang/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SubBidangController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubBidangController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-14 14:39:21 --> Undefined variable $validation
+in APPPATH\Controllers\SubBidangController.php on line 52.
+ 1 APPPATH\Controllers\SubBidangController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $validation', 'APPPATH\\Controllers\\SubBidangController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SubBidangController->simpan()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubBidangController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-02-14 14:39:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-14 14:41:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-14 14:41:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-14 15:00:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-14 15:01:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-02-14 15:02:30 --> Cannot use object of type stdClass as array
+in APPPATH\Controllers\AuthController.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AuthController->auth()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-14 15:02:33 --> Cannot use object of type stdClass as array
+in APPPATH\Controllers\AuthController.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AuthController->auth()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-02-14 15:02:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-14 15:03:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-14 15:03:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-14 15:04:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-14 15:04:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-14 15:04:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-02-14 15:04:54 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\AuthController.php on line 42.
+ 1 APPPATH\Controllers\AuthController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'APPPATH\\Controllers\\AuthController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AuthController->auth()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-02-14 15:05:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-02-14 15:05:15 --> Undefined property: stdClass::$name
+in APPPATH\Controllers\AuthController.php on line 43.
+ 1 APPPATH\Controllers\AuthController.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$name', 'APPPATH\\Controllers\\AuthController.php', 43)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AuthController->auth()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-02-14 15:05:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-02-14 15:05:23 --> Undefined property: stdClass::$role
+in APPPATH\Controllers\AuthController.php on line 45.
+ 1 APPPATH\Controllers\AuthController.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$role', 'APPPATH\\Controllers\\AuthController.php', 45)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AuthController->auth()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-02-14 15:05:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-14 15:05:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-14 15:06:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-14 15:06:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-14 15:11:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-14 15:12:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-02-14 15:35:58 --> Cannot call constructor
+in APPPATH\Controllers\BaseController.php on line 51.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\BaseController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-14 15:35:59 --> Cannot call constructor
+in APPPATH\Controllers\BaseController.php on line 51.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\BaseController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-14 15:36:08 --> Undefined property: App\Controllers\DashboardController::$session
+in APPPATH\Controllers\BaseController.php on line 66.
+ 1 APPPATH\Controllers\BaseController.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DashboardController::$session', 'APPPATH\\Controllers\\BaseController.php', 66)
+ 2 APPPATH\Controllers\BaseController.php(51): App\Controllers\BaseController->protect()
+ 3 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\BaseController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-14 15:36:33 --> Undefined property: App\Controllers\DashboardController::$session
+in APPPATH\Controllers\BaseController.php on line 66.
+ 1 APPPATH\Controllers\BaseController.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DashboardController::$session', 'APPPATH\\Controllers\\BaseController.php', 66)
+ 2 APPPATH\Controllers\BaseController.php(51): App\Controllers\BaseController->protect()
+ 3 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\BaseController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-14 15:36:42 --> Undefined property: App\Controllers\DashboardController::$session
+in APPPATH\Controllers\BaseController.php on line 66.
+ 1 APPPATH\Controllers\BaseController.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DashboardController::$session', 'APPPATH\\Controllers\\BaseController.php', 66)
+ 2 APPPATH\Controllers\BaseController.php(51): App\Controllers\BaseController->protect()
+ 3 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\BaseController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-14 15:36:52 --> Undefined property: App\Controllers\DashboardController::$session
+in APPPATH\Controllers\BaseController.php on line 66.
+ 1 APPPATH\Controllers\BaseController.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DashboardController::$session', 'APPPATH\\Controllers\\BaseController.php', 66)
+ 2 APPPATH\Controllers\BaseController.php(51): App\Controllers\BaseController->protect()
+ 3 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\BaseController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-14 15:36:52 --> Undefined property: App\Controllers\DashboardController::$session
+in APPPATH\Controllers\BaseController.php on line 66.
+ 1 APPPATH\Controllers\BaseController.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DashboardController::$session', 'APPPATH\\Controllers\\BaseController.php', 66)
+ 2 APPPATH\Controllers\BaseController.php(51): App\Controllers\BaseController->protect()
+ 3 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\BaseController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-14 15:37:47 --> Undefined property: App\Controllers\DashboardController::$session
+in APPPATH\Controllers\BaseController.php on line 66.
+ 1 APPPATH\Controllers\BaseController.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DashboardController::$session', 'APPPATH\\Controllers\\BaseController.php', 66)
+ 2 APPPATH\Controllers\BaseController.php(51): App\Controllers\BaseController->protect()
+ 3 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\BaseController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-14 15:37:48 --> Undefined property: App\Controllers\DashboardController::$session
+in APPPATH\Controllers\BaseController.php on line 66.
+ 1 APPPATH\Controllers\BaseController.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DashboardController::$session', 'APPPATH\\Controllers\\BaseController.php', 66)
+ 2 APPPATH\Controllers\BaseController.php(51): App\Controllers\BaseController->protect()
+ 3 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\BaseController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-02-14 15:38:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-02-14 15:38:02 --> Call to undefined method CodeIgniter\Session\Session::has_userdata()
+in APPPATH\Controllers\BaseController.php on line 67.
+ 1 APPPATH\Controllers\BaseController.php(52): App\Controllers\BaseController->protect()
+ 2 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\BaseController->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-02-14 15:38:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-02-14 15:38:03 --> Call to undefined method CodeIgniter\Session\Session::has_userdata()
+in APPPATH\Controllers\BaseController.php on line 67.
+ 1 APPPATH\Controllers\BaseController.php(52): App\Controllers\BaseController->protect()
+ 2 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\BaseController->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-02-14 15:38:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-02-14 15:38:04 --> Call to undefined method CodeIgniter\Session\Session::has_userdata()
+in APPPATH\Controllers\BaseController.php on line 67.
+ 1 APPPATH\Controllers\BaseController.php(52): App\Controllers\BaseController->protect()
+ 2 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\BaseController->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-02-14 15:38:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-02-14 15:38:05 --> Call to undefined method CodeIgniter\Session\Session::has_userdata()
+in APPPATH\Controllers\BaseController.php on line 67.
+ 1 APPPATH\Controllers\BaseController.php(52): App\Controllers\BaseController->protect()
+ 2 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\BaseController->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-14 15:38:12 --> Undefined property: App\Controllers\DashboardController::$session
+in APPPATH\Controllers\BaseController.php on line 66.
+ 1 APPPATH\Controllers\BaseController.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DashboardController::$session', 'APPPATH\\Controllers\\BaseController.php', 66)
+ 2 APPPATH\Controllers\BaseController.php(51): App\Controllers\BaseController->protect()
+ 3 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\BaseController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
